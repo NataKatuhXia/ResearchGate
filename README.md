@@ -1,4 +1,4 @@
 # Captura de dados do ResearchGate
 
 ## RESULTADO
-[./resultado.xls]
+['./resultado.xls'](Resultado)
