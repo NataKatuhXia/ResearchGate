@@ -1,4 +1,6 @@
 # Captura de dados do ResearchGate
 
 ## RESULTADO
-[Resultado](./resultado.xls)
+[JSON](./Buscas Completas.json)
+
+[CSV](./resultado.xls)
