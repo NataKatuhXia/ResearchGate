@@ -2,6 +2,6 @@
 
 ## RESULTADO
 
-[JSON]('./Buscas Completas.json')
+[JSON]('./BuscasCompletas.json')
 
 [CSV](./resultado.xls)
