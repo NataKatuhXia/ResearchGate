@@ -220,7 +220,7 @@ public class AutomacaoExtracaoResearchGate {
          */
         clickButton(driver);
 
-        Set<String> nomeSemRepeticao = ValidacaoExtracaoResearchGate.retirarRepeticao("Restante.txt");
+        Set<String> nomeSemRepeticao = ValidacaoExtracaoResearchGate.retirarRepeticao("Restante Total.txt");
 
         for (String linha : nomeSemRepeticao) {
 
